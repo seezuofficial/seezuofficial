@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I'm Season  
+### aka SEEZU ✨
+
+🌱 Learning Web Development  
+💻 Exploring GitHub  
+🎨 Love creative coding## Hi there 👋
 
 <!--
 **seezuofficial/seezuofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
