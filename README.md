@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://wallpapers.com/wallpapers/iron-man-jarvis-desktop-7kyecxg439heuzid.html" width="100%" alt="SEASON | SEEZU" />
+  <img src="https://images.picxy.com/cache/2021/6/14/349dbe32a0ce09a497e951d8d470705a.webp" width="100%" alt="SEASON | SEEZU" />
 </p>
 
 <!-- ===================== TITLE ===================== -->
