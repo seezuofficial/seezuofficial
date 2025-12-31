@@ -9,7 +9,7 @@
 
 <!-- ===================== TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Learning+in+silence.;Building+with+discipline.;Hacker+mindset+activated.;Anime+energy+inside.;One+commit+at+a+time." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Learning+in+silence.;Thinking+in+systems.;Discipline+over+shortcuts.;Anime+mindset+activated.;One+commit+at+a+time." />
 </p>
 
 <!-- ===================== VISITOR ===================== -->
