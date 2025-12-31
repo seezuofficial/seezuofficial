@@ -17,15 +17,20 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=seezuofficial.seezuofficial&left_color=black&right_color=green" />
 </p>
 
-# ## 🧠 Real IDENTITY 
+# ## 🧠 Real Identity
 
-Name        : Mausam
-Online Name : SEEZU
-Status      : Student / Self-learner
-Field       : Web Development
-Learning    : HTML • CSS • JavaScript
-Interest    : Ethical Hacking (Basics)
-Mindset     : Consistent learning, long-term growth
+- **Name:** Mausam  
+- **Online Name:** SEEZU  
+- **Status:** Student / Self-learner  
+- **Field:** Web Development  
+- **Currently Learning:** HTML, CSS, JavaScript  
+- **Interest:** Ethical Hacking (Basics)  
+- **Learning Style:** Building real projects while learning  
+- **Mindset:** Slow, consistent, long-term growth  
+- **Inspiration:** Anime discipline & focus  
+
+I’m not an expert yet.  
+I focus on **real skills, not fake titles**, and improve step by step.
 
 
 
