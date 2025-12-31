@@ -17,9 +17,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=seezuofficial.seezuofficial&left_color=black&right_color=green" />
 </p>
 
----
-# 💫 About Me:
-🔭 I’m currently working on  <br>→ Personal websites, GitHub Pages & creative frontend projects  <br><br>👯 I’m looking to collaborate on  <br>→ Frontend, UI/UX ideas & beginner-friendly open source projects  <br><br>🤝 I’m looking for help with  <br>→ JavaScript logic, backend basics & project structuring  <br><br>🌱 I’m currently learning  <br>→ HTML, CSS, JavaScript, GitHub, Ethical Hacking (basics)  <br><br>💬 Ask me about  <br>→ Web development, GitHub setup, UI ideas, beginner coding  <br><br>⚡ Fun fact  <br>→ I mix creativity + code & experiment a lot 😄
+# ## 🧠 Real IDENTITY 
+
+Name        : Mausam
+Online Name : SEEZU
+Status      : Student / Self-learner
+Field       : Web Development
+Learning    : HTML • CSS • JavaScript
+Interest    : Ethical Hacking (Basics)
+Mindset     : Consistent learning, long-term growth
+
 
 
 ## 🌐 Socials:
