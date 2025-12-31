@@ -18,17 +18,6 @@
 </p>
 
 ---
-
-## 🧠 IDENTITY
-
-```txt
-Name      : Season (SEEZU)
-Role      : Developer in Progress
-Mode      : Focused • Consistent
-Style     : Hacker × Anime
-Mindset   : Learn → Build → Improve
-
-
 # 💫 About Me:
 🔭 I’m currently working on  <br>→ Personal websites, GitHub Pages & creative frontend projects  <br><br>👯 I’m looking to collaborate on  <br>→ Frontend, UI/UX ideas & beginner-friendly open source projects  <br><br>🤝 I’m looking for help with  <br>→ JavaScript logic, backend basics & project structuring  <br><br>🌱 I’m currently learning  <br>→ HTML, CSS, JavaScript, GitHub, Ethical Hacking (basics)  <br><br>💬 Ask me about  <br>→ Web development, GitHub setup, UI ideas, beginner coding  <br><br>⚡ Fun fact  <br>→ I mix creativity + code & experiment a lot 😄
 
