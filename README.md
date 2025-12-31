@@ -1,3 +1,34 @@
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seezuofficial/seezuofficial/main/banner.png" width="100%" alt="SEASON | SEEZU" />
+</p>
+
+<!-- ===================== TITLE ===================== -->
+<h1 align="center">⚡ SEASON ⚡</h1>
+<h3 align="center">aka SEEZU | Hacker Mind • Anime Soul • Builder Mode</h3>
+
+<!-- ===================== TYPING ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Learning+in+silence.;Building+with+discipline.;Hacker+mindset+activated.;Anime+energy+inside.;One+commit+at+a+time." />
+</p>
+
+<!-- ===================== VISITOR ===================== -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=seezuofficial.seezuofficial&left_color=black&right_color=green" />
+</p>
+
+---
+
+## 🧠 IDENTITY
+
+```txt
+Name      : Season (SEEZU)
+Role      : Developer in Progress
+Mode      : Focused • Consistent
+Style     : Hacker × Anime
+Mindset   : Learn → Build → Improve
+
+
 # 💫 About Me:
 🔭 I’m currently working on  <br>→ Personal websites, GitHub Pages & creative frontend projects  <br><br>👯 I’m looking to collaborate on  <br>→ Frontend, UI/UX ideas & beginner-friendly open source projects  <br><br>🤝 I’m looking for help with  <br>→ JavaScript logic, backend basics & project structuring  <br><br>🌱 I’m currently learning  <br>→ HTML, CSS, JavaScript, GitHub, Ethical Hacking (basics)  <br><br>💬 Ask me about  <br>→ Web development, GitHub setup, UI ideas, beginner coding  <br><br>⚡ Fun fact  <br>→ I mix creativity + code & experiment a lot 😄
 
